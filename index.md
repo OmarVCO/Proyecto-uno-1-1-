@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Hello my name is **OMAR SEGURA**
 This is some information about: 
+- I'm from *BAJA, MEXICO*
+- My hobby is *SCUBA DIVING*
+- I'm learning development because I **love** create systems.
+
+
 
 ```markdown
 Syntax highlighted code block
