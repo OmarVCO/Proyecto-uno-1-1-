@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown TEST OMAR
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello my name is **OMAR SEGURA**
+This is some information about: 
 
 ```markdown
 Syntax highlighted code block
